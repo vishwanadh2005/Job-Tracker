@@ -30,7 +30,9 @@ NLP-Based Classification
 - Improves search and organization of recruiting communications
 
 Application Tracking
+
 Stores application information for easy retrieval
+
 Organizes applications by status:
 - Applied
 - Interview
