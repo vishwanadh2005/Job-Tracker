@@ -11,8 +11,11 @@ The system provides a centralized way to monitor application activity, reduce ma
 Features
 
 Email Integration
+
 Connects to Gmail using the Gmail API
+
 Automatically retrieves job-related emails
+
 Extracts important metadata including:
 - Sender
 - Subject
