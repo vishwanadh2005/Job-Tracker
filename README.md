@@ -1,8 +1,8 @@
-Job Application Intelligence Platform
+#Job Application Intelligence Platform
 
 An automated job application management system that integrates with Gmail to identify, organize, and classify application-related emails. The platform uses secure OAuth 2.0 authentication and Google Cloud Natural Language Processing to analyze email content and improve application tracking.
 
-Overview
+#Overview
 
 Keeping track of job applications across multiple companies can become difficult during recruiting cycles. This project automates the process by connecting to a user's Gmail account, extracting relevant application emails, and categorizing them based on content and relevance.
 
